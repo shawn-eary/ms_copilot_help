@@ -1,0 +1,79 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "name": {
+                "Last": "Mudler",
+                "First": "Wolf"
+            },
+            "context": "got lost in a space mall and bought a pet alien",
+            "address": {
+                "planet": "Venus",
+                "country": "Galactic Empire",
+                "state": "Alpha Quadrant",
+                "city": "Star City",
+                "spacecode": "12345-6789"
+            }
+        },
+        {
+            "id": 2,
+            "name": {
+                "Last": "Oswald",
+                "First": "Clara"
+            },
+            "context": "invented a teleportation device that only works on Tuesdays",
+            "address": {
+                "planet": "Venus",
+                "country": "Galactic Empire",
+                "state": "Alpha Quadrant",
+                "city": "Star City",
+                "spacecode": "12345-6789"
+            }
+        },
+        {
+            "id": 3,
+            "name": {
+               "Last": "Oswald",
+               "First": "Laura"
+            }, 
+            "context": "started a band with aliens from different galaxies",
+            "address": {
+                "planet": "Mars",
+                "country": "Galactic Empire",
+                "state": "Alpha Quadrant",
+                "city": "Star City",
+                "spacecode": "12345-6789"
+            }
+        },
+        {
+            "id": 4,
+            "name": {
+               "Last": "Yurmvwhhhw",
+               "First": ""
+            }, 
+            "context": "Wanted in Five Different Galaxies",
+            "address": {
+                "planet": "Xeno",
+                "country": "Integalactic Russia",
+                "state": "Beta Quadrant",
+                "city": "Mos-Moo-Cow",
+                "spacecode": "38324-8389"
+            }
+        },
+        {
+            "id": 5,
+            "name": {
+                "Last": "Spock",
+                "First": ""
+            },
+            "context": "Crazy Intelligent",
+            "address": {
+                "planet": "Whereever Vulcans Live",
+                "country": "Some Vulcan Country",
+                "state": "Some Vulcan State",
+                "city": "Some Vulcan City",
+                "spacecode": "38736-3832"
+            }
+        }
+    ]
+}
